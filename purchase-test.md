@@ -25,7 +25,7 @@
 
 Calculate the opportunity cost in Python:
 
-```{code-cell} ipython3
+```python
 cost = 1000
 timeline = 12
 interest = 1.07 # per year
