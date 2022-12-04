@@ -1,10 +1,3 @@
----
-kernelspec:
-  display_name: Python 3
-  language: python
-  name: python3
----
-
 # Questions I try to ask before spending money.
 
 **Default state is to not spend money on non-essentials.** The one exception is books.
