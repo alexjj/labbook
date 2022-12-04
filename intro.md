@@ -6,3 +6,15 @@ Here's everything so far:
 
 ```{tableofcontents}
 ```
+
+### Temp list of things I might add
+
+* computer software configuration
+* books I've read
+* books I want to read
+* film development
+* films I've used and thoughts
+* lists of stuff I have
+* monthly write ups
+* annual/monthly targets
+* 
