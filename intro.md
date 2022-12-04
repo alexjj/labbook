@@ -17,4 +17,6 @@ Here's everything so far:
 * lists of stuff I have
 * monthly write ups
 * annual/monthly targets
-* 
+* Quotes and other snippets
+
+hmm...starting to sound just like a wiki but in a notebook form 😅 Maybe I should actually write some of them vs. doing none of them.
