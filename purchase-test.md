@@ -1,3 +1,10 @@
+---
+kernelspec:
+  display_name: Python 3
+  language: python
+  name: python3
+---
+
 # Questions I try to ask before spending money.
 
 **Default state is to not spend money on non-essentials.** The one exception is books.
@@ -25,7 +32,7 @@
 
 Calculate the opportunity cost in Python:
 
-```python
+```{code-cell} ipython3
 cost = 1000
 timeline = 12
 interest = 1.07 # per year
